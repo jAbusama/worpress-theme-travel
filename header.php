@@ -39,10 +39,9 @@
 
 	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 	<link rel="shortcut icon" href="favicon.ico">
-
 	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,300' rel='stylesheet' type='text/css'>
 	
-	<?php wp_head(); ?>
+
 
 	<!-- Modernizr JS -->
 
@@ -50,7 +49,7 @@
 	<!--[if lt IE 9]>
 	<script src="js/respond.min.js"></script>
 	<![endif]-->
-
+	<?php wp_head(); ?>
 	</head>
 	<body>
 		<div id="fh5co-wrapper">
