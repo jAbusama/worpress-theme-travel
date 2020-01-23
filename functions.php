@@ -35,7 +35,7 @@ function load_stylesheets() {
   wp_register_style('custom_css', get_template_directory_uri() . '/custom.css', array(), 1, 'all');
   wp_enqueue_style('custom_css');
 
-  wp_register_script('modernizr_js', get_template_directory_uri() . '/js/modernizr-2.6.2.min.js', '', 1, 1, 1);
+  wp_register_script('modernizr_js', get_template_directory_uri() . '/js/modernizr-2.6.2.min.js', array(), 1, 1, 1);
   wp_enqueue_script('modernizr_js');
 }
 
@@ -46,19 +46,19 @@ add_action('wp_enqueue_scripts', 'load_stylesheets');
 
 function load_js() {
 
-  wp_register_script('jquery_js', get_template_directory_uri() . '/js/jquery.min.js', '', 1, 1, 1);
+  wp_register_script('jquery_js', get_template_directory_uri() . '/js/jquery.min.js', array(), 1, 1, 1);
   wp_enqueue_script('jquery_js');
 
-  wp_register_script('jquery_easing_js', get_template_directory_uri() . '/js/jquery.easing.1.3.js', '', 1, 1, 1);
+  wp_register_script('jquery_easing_js', get_template_directory_uri() . '/js/jquery.easing.1.3.js', array(), 1, 1, 1);
   wp_enqueue_script('jquery_easing_js');
 
-  wp_register_script('bootstrap_js', get_template_directory_uri() . '/js/bootstrap.min.js', '', 1, 1, 1);
+  wp_register_script('bootstrap_js', get_template_directory_uri() . '/js/bootstrap.min.js', array(), 1, 1, 1);
   wp_enqueue_script('bootstrap_js');
 
-  wp_register_script('jquery_waypoint_js', get_template_directory_uri() . '/js/jquery.waypoints.min.js', '', 1, 1, 1);
+  wp_register_script('jquery_waypoint_js', get_template_directory_uri() . '/js/jquery.waypoints.min.js', array(), 1, 1, 1);
   wp_enqueue_script('jquery_waypoint_js');
 
-  wp_register_script('sticky_js', get_template_directory_uri() . '/js/sticky.js', '', 1, 1, 1);
+  wp_register_script('sticky_js', get_template_directory_uri() . '/js/sticky.js', array(), 1, 1, 1);
   wp_enqueue_script('sticky_js');
 
   wp_register_script('jquery_stellar', get_template_directory_uri() . '/js/jquery.stellar.min.js', array(), 1, 1, 1);
@@ -83,7 +83,7 @@ function load_js() {
   wp_enqueue_script('classie_js');
 
   wp_register_script('selectFs_js', get_template_directory_uri() . '/js/selectFx.js', array(), 1, 1, 1);
-  wp_enqueue_script('jquery');
+  wp_enqueue_script('selectFs_js');
 
   wp_register_script('main_js', get_template_directory_uri() . '/js/main.js', array(), 1, 1, 1);
   wp_enqueue_script('main_js');

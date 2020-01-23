@@ -2,7 +2,7 @@
 
 <div class="fh5co-hero">
 			<div class="fh5co-overlay"></div>
-			<div class="fh5co-cover" data-stellar-background-ratio="0.5" style="<?php bloginfo('template_directory'); ?> /images/cover_bg_1.jpg">
+			<div class="fh5co-cover" data-stellar-background-ratio="0.5" style="<?php bloginfo('template_directory'); ?>/images/cover_bg_1.jpg">
 				<div class="desc">
 					<div class="container">
 						<div class="row">
@@ -248,7 +248,7 @@
 				</div>
 				<div class="row">
 					<div class="col-md-4 col-sm-6 fh5co-tours animate-box" data-animate-effect="fadeIn">
-						<div href="#"><img src="<?php bloginfo('template_directory');?> /images/place-1.jpg" alt="Free HTML5 Website Template by FreeHTML5.co" class="img-responsive">
+						<div href="#"><img src="<?php bloginfo('template_directory');?>/images/place-1.jpg" alt="Free HTML5 Website Template by FreeHTML5.co" class="img-responsive">
 							<div class="desc">
 								<span></span>
 								<h3>New York</h3>
@@ -259,7 +259,7 @@
 						</div>
 					</div>
 					<div class="col-md-4 col-sm-6 fh5co-tours animate-box" data-animate-effect="fadeIn">
-						<div href="#"><img src="<?php bloginfo('template_directory');?> /images/place-2.jpg" alt="Free HTML5 Website Template by FreeHTML5.co" class="img-responsive">
+						<div href="#"><img src="<?php bloginfo('template_directory');?>/images/place-2.jpg" alt="Free HTML5 Website Template by FreeHTML5.co" class="img-responsive">
 							<div class="desc">
 								<span></span>
 								<h3>Philippines</h3>
@@ -270,7 +270,7 @@
 						</div>
 					</div>
 					<div class="col-md-4 col-sm-6 fh5co-tours animate-box" data-animate-effect="fadeIn">
-						<div href="#"><img src="<?php bloginfo('template_directory');?> /images/place-3.jpg" alt="Free HTML5 Website Template by FreeHTML5.co" class="img-responsive">
+						<div href="#"><img src="<?php bloginfo('template_directory');?>/images/place-3.jpg" alt="Free HTML5 Website Template by FreeHTML5.co" class="img-responsive">
 							<div class="desc">
 								<span></span>
 								<h3>Hongkong</h3>
@@ -381,28 +381,28 @@
 				<div class="row">
 					<div class="col-md-12">
 						<ul id="fh5co-destination-list" class="animate-box">
-							<li class="one-forth text-center" style="<?php bloginfo('template_directory');?> /images/place-1.jpg">
+							<li class="one-forth text-center" style="<?php bloginfo('template_directory');?>/images/place-1.jpg">
 								<a href="#">
 									<div class="case-studies-summary">
 										<h2>Los Angeles</h2>
 									</div>
 								</a>
 							</li>
-							<li class="one-forth text-center" style="<?php bloginfo('template_directory');?> /images/place-2.jpg">
+							<li class="one-forth text-center" style="<?php bloginfo('template_directory');?>/images/place-2.jpg">
 								<a href="#">
 									<div class="case-studies-summary">
 										<h2>Hongkong</h2>
 									</div>
 								</a>
 							</li>
-							<li class="one-forth text-center" style="<?php bloginfo('template_directory');?> /images/place-3.jpg">
+							<li class="one-forth text-center" style="<?php bloginfo('template_directory');?>/images/place-3.jpg">
 								<a href="#">
 									<div class="case-studies-summary">
 										<h2>Italy</h2>
 									</div>
 								</a>
 							</li>
-							<li class="one-forth text-center" style="<?php bloginfo('template_directory');?> /images/place-4.jpg">
+							<li class="one-forth text-center" style="<?php bloginfo('template_directory');?>/images/place-4.jpg">
 								<a href="#">
 									<div class="case-studies-summary">
 										<h2>Philippines</h2>
@@ -410,7 +410,7 @@
 								</a>
 							</li>
 
-							<li class="one-forth text-center" style="<?php bloginfo('template_directory');?> /images/place-5.jpg">
+							<li class="one-forth text-center" style="<?php bloginfo('template_directory');?>/images/place-5.jpg">
 								<a href="#">
 									<div class="case-studies-summary">
 										<h2>Japan</h2>
@@ -425,35 +425,35 @@
 									</div>
 								</div>
 							</li>
-							<li class="one-forth text-center" style="<?php bloginfo('template_directory');?> /images/place-6.jpg">
+							<li class="one-forth text-center" style="<?php bloginfo('template_directory');?>/images/place-6.jpg">
 								<a href="#">
 									<div class="case-studies-summary">
 										<h2>Paris</h2>
 									</div>
 								</a>
 							</li>
-							<li class="one-forth text-center" style="<?php bloginfo('template_directory');?> /images/place-7.jpg">
+							<li class="one-forth text-center" style="<?php bloginfo('template_directory');?>/images/place-7.jpg">
 								<a href="#">
 									<div class="case-studies-summary">
 										<h2>Singapore</h2>
 									</div>
 								</a>
 							</li>
-							<li class="one-forth text-center" style="<?php bloginfo('template_directory');?> /images/place-8.jpg">
+							<li class="one-forth text-center" style="<?php bloginfo('template_directory');?>/images/place-8.jpg">
 								<a href="#">
 									<div class="case-studies-summary">
 										<h2>Madagascar</h2>
 									</div>
 								</a>
 							</li>
-							<li class="one-forth text-center" style="<?php bloginfo('template_directory');?> /images/place-9.jpg">
+							<li class="one-forth text-center" style="<?php bloginfo('template_directory');?>/images/place-9.jpg">
 								<a href="#">
 									<div class="case-studies-summary">
 										<h2>Egypt</h2>
 									</div>
 								</a>
 							</li>
-							<li class="one-forth text-center" style="<?php bloginfo('template_directory');?> /images/place-10.jpg">
+							<li class="one-forth text-center" style="<?php bloginfo('template_directory');?>/images/place-10.jpg">
 								<a href="#">
 									<div class="case-studies-summary">
 										<h2>Indonesia</h2>
@@ -479,7 +479,7 @@
 				<div class="row row-bottom-padded-md">
 					<div class="col-lg-4 col-md-4 col-sm-6">
 						<div class="fh5co-blog animate-box">
-							<a href="#"><img class="img-responsive" src="<?php bloginfo('template_directory');?> /images/place-1.jpg" alt=""></a>
+							<a href="#"><img class="img-responsive" src="<?php bloginfo('template_directory');?>/images/place-1.jpg" alt=""></a>
 							<div class="blog-text">
 								<div class="prod-title">
 									<h3><a href="#">30% Discount to Travel All Around the World</a></h3>
@@ -493,7 +493,7 @@
 					</div>
 					<div class="col-lg-4 col-md-4 col-sm-6">
 						<div class="fh5co-blog animate-box">
-							<a href="#"><img class="img-responsive" src="<?php bloginfo('template_directory');?> /images/place-2.jpg" alt=""></a>
+							<a href="#"><img class="img-responsive" src="<?php bloginfo('template_directory');?>/images/place-2.jpg" alt=""></a>
 							<div class="blog-text">
 								<div class="prod-title">
 									<h3><a href="#">Planning for Vacation</a></h3>
@@ -508,7 +508,7 @@
 					<div class="clearfix visible-sm-block"></div>
 					<div class="col-lg-4 col-md-4 col-sm-6">
 						<div class="fh5co-blog animate-box">
-							<a href="#"><img class="img-responsive" src="<?php bloginfo('template_directory');?> /images/place-3.jpg" alt=""></a>
+							<a href="#"><img class="img-responsive" src="<?php bloginfo('template_directory');?>/images/place-3.jpg" alt=""></a>
 							<div class="blog-text">
 								<div class="prod-title">
 									<h3><a href="#">Visit Tokyo Japan</a></h3>
@@ -530,7 +530,7 @@
 			</div>
 		</div>
 		<!-- fh5co-blog-section -->
-		<div id="fh5co-testimonial" style="background-image:url(images/img_bg_1.jpg);">
+		<div id="fh5co-testimonial" style="<?php bloginfo('template_directory');?>/images/img_bg_1.jpg">
 		<div class="container">
 			<div class="row animate-box">
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">

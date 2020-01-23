@@ -76,9 +76,6 @@
 	</div>
 	<!-- END fh5co-wrapper -->
 	<!-- jQuery -->
-	<script src="js/jquery.min.js"></script>
-	<!-- jQuery Easing -->
-	<script src="js/jquery.easing.1.3.js"></script>
 
 	<?php wp_footer(); ?>
 
